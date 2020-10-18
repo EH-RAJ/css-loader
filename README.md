@@ -1,2 +1,1 @@
-# css-loader
 # loader
